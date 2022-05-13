@@ -306,7 +306,7 @@ body {
 
 .links {
   display: flex;
-  gap: ;
+  gap: 2;
   flex-direction: row;
   padding-top: 10px;
 }
