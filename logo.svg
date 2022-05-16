@@ -1,0 +1,304 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800">
+	<title>OJM26U1-ai</title>
+	<defs>
+		<linearGradient id="g1" x1="1258" y1="57.4" x2="486.3" y2="658.7" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#44cff6"/>
+			<stop offset=".5" stop-color="#1877c1"/>
+			<stop offset="1" stop-color="#0f348f"/>
+		</linearGradient>
+		<linearGradient id="g2" x1="1289.9" y1="98.3" x2="518.2" y2="699.6" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#44cff6"/>
+			<stop offset=".5" stop-color="#1877c1"/>
+			<stop offset="1" stop-color="#0f348f"/>
+		</linearGradient>
+		<linearGradient id="g3" x1="1207" y1="-9.6" x2="435.3" y2="591.7" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#44cff6"/>
+			<stop offset=".5" stop-color="#1877c1"/>
+			<stop offset="1" stop-color="#0f348f"/>
+		</linearGradient>
+		<linearGradient id="g4" x1="1257.4" y1="62" x2="485.8" y2="663.3" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#44cff6"/>
+			<stop offset=".5" stop-color="#1877c1"/>
+			<stop offset="1" stop-color="#0f348f"/>
+		</linearGradient>
+		<linearGradient id="g5" x1="1181.5" y1="-40.8" x2="409.8" y2="560.5" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#44cff6"/>
+			<stop offset=".5" stop-color="#1877c1"/>
+			<stop offset="1" stop-color="#0f348f"/>
+		</linearGradient>
+		<linearGradient id="g6" x1="822.7" y1="133.1" x2="461.9" y2="732.2" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#44cff6"/>
+			<stop offset=".5" stop-color="#1877c1"/>
+			<stop offset="1" stop-color="#0f348f"/>
+		</linearGradient>
+		<linearGradient id="g7" x1="684.2" y1="49.7" x2="323.4" y2="648.8" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#44cff6"/>
+			<stop offset=".5" stop-color="#1877c1"/>
+			<stop offset="1" stop-color="#0f348f"/>
+		</linearGradient>
+		<linearGradient id="g8" x1="915.4" y1="189" x2="554.6" y2="788.1" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#44cff6"/>
+			<stop offset=".5" stop-color="#1877c1"/>
+			<stop offset="1" stop-color="#0f348f"/>
+		</linearGradient>
+		<linearGradient id="g9" x1="836.1" y1="143.3" x2="475.3" y2="742.4" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#44cff6"/>
+			<stop offset=".5" stop-color="#1877c1"/>
+			<stop offset="1" stop-color="#0f348f"/>
+		</linearGradient>
+		<linearGradient id="g10" x1="907.3" y1="189.4" x2="546.5" y2="788.5" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#44cff6"/>
+			<stop offset=".5" stop-color="#1877c1"/>
+			<stop offset="1" stop-color="#0f348f"/>
+		</linearGradient>
+		<linearGradient id="g11" x1="830.6" y1="136.4" x2="467.4" y2="739.5" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#44cff6"/>
+			<stop offset=".5" stop-color="#1877c1"/>
+			<stop offset="1" stop-color="#0f348f"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { opacity: 0;mix-blend-mode: multiply;fill: #a6a8ab } 
+		.s1 { opacity: 0;fill: #a5a7aa } 
+		.s2 { opacity: 0;fill: #a3a5a8 } 
+		.s3 { opacity: 0;fill: #a2a4a7 } 
+		.s4 { opacity: 0;fill: #a1a3a5 } 
+		.s5 { opacity: .1;fill: #a0a1a4 } 
+		.s6 { opacity: .1;fill: #9ea0a3 } 
+		.s7 { opacity: .1;fill: #9d9fa1 } 
+		.s8 { opacity: .1;fill: #9c9da0 } 
+		.s9 { opacity: .1;fill: #9a9c9f } 
+		.s10 { opacity: .1;fill: #999a9d } 
+		.s11 { opacity: .1;fill: #98999c } 
+		.s12 { opacity: .1;fill: #96989a } 
+		.s13 { opacity: .1;fill: #959699 } 
+		.s14 { opacity: .1;fill: #949598 } 
+		.s15 { opacity: .1;fill: #939496 } 
+		.s16 { opacity: .2;fill: #919295 } 
+		.s17 { opacity: .2;fill: #909194 } 
+		.s18 { opacity: .2;fill: #8f9092 } 
+		.s19 { opacity: .2;fill: #8d8e91 } 
+		.s20 { opacity: .2;fill: #8c8d8f } 
+		.s21 { opacity: .2;fill: #8b8c8e } 
+		.s22 { opacity: .2;fill: #898a8d } 
+		.s23 { opacity: .2;fill: #88898b } 
+		.s24 { opacity: .2;fill: #87878a } 
+		.s25 { opacity: .2;fill: #868689 } 
+		.s26 { opacity: .3;fill: #848587 } 
+		.s27 { opacity: .3;fill: #838386 } 
+		.s28 { opacity: .3;fill: #828284 } 
+		.s29 { opacity: .3;fill: #808183 } 
+		.s30 { opacity: .3;fill: #7f7f82 } 
+		.s31 { opacity: .3;fill: #7e7e80 } 
+		.s32 { opacity: .3;fill: #7c7d7f } 
+		.s33 { opacity: .3;fill: #7b7b7e } 
+		.s34 { opacity: .3;fill: #7a7a7c } 
+		.s35 { opacity: .3;fill: #79797b } 
+		.s36 { opacity: .4;fill: #777779 } 
+		.s37 { opacity: .4;fill: #767678 } 
+		.s38 { opacity: .4;fill: #757477 } 
+		.s39 { opacity: .4;fill: #737375 } 
+		.s40 { opacity: .4;fill: #727274 } 
+		.s41 { opacity: .4;fill: #717073 } 
+		.s42 { opacity: .4;fill: #706f71 } 
+		.s43 { opacity: .4;fill: #6e6e70 } 
+		.s44 { opacity: .4;fill: #6d6c6e } 
+		.s45 { opacity: .4;fill: #6c6b6d } 
+		.s46 { opacity: .5;fill: #6a6a6c } 
+		.s47 { opacity: .5;fill: #69686a } 
+		.s48 { opacity: .5;fill: #686769 } 
+		.s49 { opacity: .5;fill: #666668 } 
+		.s50 { opacity: .5;fill: #656466 } 
+		.s51 { opacity: .5;fill: #646365 } 
+		.s52 { opacity: .5;fill: #636163 } 
+		.s53 { opacity: .5;fill: #616062 } 
+		.s54 { opacity: .5;fill: #605f61 } 
+		.s55 { opacity: .5;fill: #5f5d5f } 
+		.s56 { opacity: .6;fill: #5d5c5e } 
+		.s57 { opacity: .6;fill: #5c5b5d } 
+		.s58 { opacity: .6;fill: #5b595b } 
+		.s59 { opacity: .6;fill: #59585a } 
+		.s60 { opacity: .6;fill: #585758 } 
+		.s61 { opacity: .6;fill: #575557 } 
+		.s62 { opacity: .6;fill: #565456 } 
+		.s63 { opacity: .6;fill: #545354 } 
+		.s64 { opacity: .6;fill: #535153 } 
+		.s65 { opacity: .6;fill: #525052 } 
+		.s66 { opacity: .7;fill: #504e50 } 
+		.s67 { opacity: .7;fill: #4f4d4f } 
+		.s68 { opacity: .7;fill: #4e4c4d } 
+		.s69 { opacity: .7;fill: #4d4a4c } 
+		.s70 { opacity: .7;fill: #4b494b } 
+		.s71 { opacity: .7;fill: #4a4849 } 
+		.s72 { opacity: .7;fill: #494648 } 
+		.s73 { opacity: .7;fill: #474547 } 
+		.s74 { opacity: .7;fill: #464445 } 
+		.s75 { opacity: .7;fill: #454244 } 
+		.s76 { opacity: .8;fill: #434142 } 
+		.s77 { opacity: .8;fill: #424041 } 
+		.s78 { opacity: .8;fill: #413e40 } 
+		.s79 { opacity: .8;fill: #403d3e } 
+		.s80 { opacity: .8;fill: #3e3b3d } 
+		.s81 { opacity: .8;fill: #3d3a3c } 
+		.s82 { opacity: .8;fill: #3c393a } 
+		.s83 { opacity: .8;fill: #3a3739 } 
+		.s84 { opacity: .8;fill: #393637 } 
+		.s85 { opacity: .8;fill: #383536 } 
+		.s86 { opacity: .9;fill: #363335 } 
+		.s87 { opacity: .9;fill: #353233 } 
+		.s88 { opacity: .9;fill: #343132 } 
+		.s89 { opacity: .9;fill: #332f31 } 
+		.s90 { opacity: .9;fill: #312e2f } 
+		.s91 { opacity: .9;fill: #302d2e } 
+		.s92 { opacity: .9;fill: #2f2b2c } 
+		.s93 { opacity: .9;fill: #2d2a2b } 
+		.s94 { opacity: .9;fill: #2c282a } 
+		.s95 { opacity: .9;fill: #2b2728 } 
+		.s96 { opacity: .9;fill: #292627 } 
+		.s97 { opacity: 1;fill: #282426 } 
+		.s98 { opacity: 1;fill: #272324 } 
+		.s99 { opacity: 1;fill: #262223 } 
+		.s100 { opacity: 1;fill: #242021 } 
+		.s101 { fill: #231f20 } 
+		.s102 { fill: url(#g1) } 
+		.s103 { fill: url(#g2) } 
+		.s104 { fill: url(#g3) } 
+		.s105 { fill: url(#g4) } 
+		.s106 { fill: url(#g5) } 
+		.s107 { fill: url(#g6) } 
+		.s108 { fill: url(#g7) } 
+		.s109 { fill: url(#g8) } 
+		.s110 { fill: url(#g9) } 
+		.s111 { fill: url(#g10) } 
+		.s112 { fill: url(#g11) } 
+	</style>
+	<g id="Layer 3">
+	</g>
+	<g id="Layer 5">
+		<g id="&lt;Group&gt;">
+			<g id="&lt;Group&gt;">
+				<g id="&lt;Group&gt;" style="opacity: .3">
+					<ellipse id="&lt;Path&gt;" class="s0" cx="388.9" cy="710.7" rx="297.9" ry="37"/>
+					<ellipse id="&lt;Path&gt;" class="s1" cx="388.9" cy="710.7" rx="295.3" ry="36.7"/>
+					<ellipse id="&lt;Path&gt;" class="s2" cx="388.9" cy="710.7" rx="292.8" ry="36.3"/>
+					<ellipse id="&lt;Path&gt;" class="s3" cx="388.9" cy="710.7" rx="290.2" ry="36"/>
+					<ellipse id="&lt;Path&gt;" class="s4" cx="388.9" cy="710.7" rx="287.7" ry="35.7"/>
+					<ellipse id="&lt;Path&gt;" class="s5" cx="388.9" cy="710.7" rx="285.1" ry="35.4"/>
+					<ellipse id="&lt;Path&gt;" class="s6" cx="388.9" cy="710.7" rx="282.6" ry="35.1"/>
+					<ellipse id="&lt;Path&gt;" class="s7" cx="388.9" cy="710.7" rx="280" ry="34.8"/>
+					<ellipse id="&lt;Path&gt;" class="s8" cx="388.9" cy="710.7" rx="277.5" ry="34.4"/>
+					<ellipse id="&lt;Path&gt;" class="s9" cx="388.9" cy="710.7" rx="274.9" ry="34.1"/>
+					<ellipse id="&lt;Path&gt;" class="s10" cx="388.9" cy="710.7" rx="272.3" ry="33.8"/>
+					<ellipse id="&lt;Path&gt;" class="s11" cx="388.9" cy="710.7" rx="269.8" ry="33.5"/>
+					<ellipse id="&lt;Path&gt;" class="s12" cx="388.9" cy="710.7" rx="267.2" ry="33.2"/>
+					<ellipse id="&lt;Path&gt;" class="s13" cx="388.9" cy="710.7" rx="264.7" ry="32.9"/>
+					<ellipse id="&lt;Path&gt;" class="s14" cx="388.9" cy="710.7" rx="262.1" ry="32.5"/>
+					<ellipse id="&lt;Path&gt;" class="s15" cx="388.9" cy="710.7" rx="259.6" ry="32.2"/>
+					<ellipse id="&lt;Path&gt;" class="s16" cx="388.9" cy="710.7" rx="257" ry="31.9"/>
+					<ellipse id="&lt;Path&gt;" class="s17" cx="388.9" cy="710.7" rx="254.5" ry="31.6"/>
+					<ellipse id="&lt;Path&gt;" class="s18" cx="388.9" cy="710.7" rx="251.9" ry="31.3"/>
+					<ellipse id="&lt;Path&gt;" class="s19" cx="388.9" cy="710.7" rx="249.4" ry="31"/>
+					<ellipse id="&lt;Path&gt;" class="s20" cx="388.9" cy="710.7" rx="246.8" ry="30.6"/>
+					<ellipse id="&lt;Path&gt;" class="s21" cx="388.9" cy="710.7" rx="244.2" ry="30.3"/>
+					<ellipse id="&lt;Path&gt;" class="s22" cx="388.9" cy="710.7" rx="241.7" ry="30"/>
+					<ellipse id="&lt;Path&gt;" class="s23" cx="388.9" cy="710.7" rx="239.1" ry="29.7"/>
+					<ellipse id="&lt;Path&gt;" class="s24" cx="388.9" cy="710.7" rx="236.6" ry="29.4"/>
+					<ellipse id="&lt;Path&gt;" class="s25" cx="388.9" cy="710.7" rx="234" ry="29"/>
+					<ellipse id="&lt;Path&gt;" class="s26" cx="388.9" cy="710.7" rx="231.5" ry="28.7"/>
+					<ellipse id="&lt;Path&gt;" class="s27" cx="388.9" cy="710.7" rx="228.9" ry="28.4"/>
+					<ellipse id="&lt;Path&gt;" class="s28" cx="388.9" cy="710.7" rx="226.4" ry="28.1"/>
+					<ellipse id="&lt;Path&gt;" class="s29" cx="388.9" cy="710.7" rx="223.8" ry="27.8"/>
+					<ellipse id="&lt;Path&gt;" class="s30" cx="388.9" cy="710.7" rx="221.3" ry="27.5"/>
+					<ellipse id="&lt;Path&gt;" class="s31" cx="388.9" cy="710.7" rx="218.7" ry="27.1"/>
+					<ellipse id="&lt;Path&gt;" class="s32" cx="388.9" cy="710.7" rx="216.2" ry="26.8"/>
+					<ellipse id="&lt;Path&gt;" class="s33" cx="388.9" cy="710.7" rx="213.6" ry="26.5"/>
+					<ellipse id="&lt;Path&gt;" class="s34" cx="388.9" cy="710.7" rx="211" ry="26.2"/>
+					<ellipse id="&lt;Path&gt;" class="s35" cx="388.9" cy="710.7" rx="208.5" ry="25.9"/>
+					<ellipse id="&lt;Path&gt;" class="s36" cx="388.9" cy="710.7" rx="205.9" ry="25.6"/>
+					<ellipse id="&lt;Path&gt;" class="s37" cx="388.9" cy="710.7" rx="203.4" ry="25.2"/>
+					<ellipse id="&lt;Path&gt;" class="s38" cx="388.9" cy="710.7" rx="200.8" ry="24.9"/>
+					<ellipse id="&lt;Path&gt;" class="s39" cx="388.9" cy="710.7" rx="198.3" ry="24.6"/>
+					<ellipse id="&lt;Path&gt;" class="s40" cx="388.9" cy="710.7" rx="195.7" ry="24.3"/>
+					<ellipse id="&lt;Path&gt;" class="s41" cx="388.9" cy="710.7" rx="193.2" ry="24"/>
+					<ellipse id="&lt;Path&gt;" class="s42" cx="388.9" cy="710.7" rx="190.6" ry="23.7"/>
+					<ellipse id="&lt;Path&gt;" class="s43" cx="388.9" cy="710.7" rx="188.1" ry="23.3"/>
+					<ellipse id="&lt;Path&gt;" class="s44" cx="388.9" cy="710.7" rx="185.5" ry="23"/>
+					<ellipse id="&lt;Path&gt;" class="s45" cx="388.9" cy="710.7" rx="182.9" ry="22.7"/>
+					<ellipse id="&lt;Path&gt;" class="s46" cx="388.9" cy="710.7" rx="180.4" ry="22.4"/>
+					<ellipse id="&lt;Path&gt;" class="s47" cx="388.9" cy="710.7" rx="177.8" ry="22.1"/>
+					<ellipse id="&lt;Path&gt;" class="s48" cx="388.9" cy="710.7" rx="175.3" ry="21.8"/>
+					<ellipse id="&lt;Path&gt;" class="s49" cx="388.9" cy="710.7" rx="172.7" ry="21.4"/>
+					<ellipse id="&lt;Path&gt;" class="s50" cx="388.9" cy="710.7" rx="170.2" ry="21.1"/>
+					<ellipse id="&lt;Path&gt;" class="s51" cx="388.9" cy="710.7" rx="167.6" ry="20.8"/>
+					<ellipse id="&lt;Path&gt;" class="s52" cx="388.9" cy="710.7" rx="165.1" ry="20.5"/>
+					<ellipse id="&lt;Path&gt;" class="s53" cx="388.9" cy="710.7" rx="162.5" ry="20.2"/>
+					<ellipse id="&lt;Path&gt;" class="s54" cx="388.9" cy="710.7" rx="160" ry="19.9"/>
+					<ellipse id="&lt;Path&gt;" class="s55" cx="388.9" cy="710.7" rx="157.4" ry="19.5"/>
+					<ellipse id="&lt;Path&gt;" class="s56" cx="388.9" cy="710.7" rx="154.8" ry="19.2"/>
+					<ellipse id="&lt;Path&gt;" class="s57" cx="388.9" cy="710.7" rx="152.3" ry="18.9"/>
+					<ellipse id="&lt;Path&gt;" class="s58" cx="388.9" cy="710.7" rx="149.7" ry="18.6"/>
+					<ellipse id="&lt;Path&gt;" class="s59" cx="388.9" cy="710.7" rx="147.2" ry="18.3"/>
+					<ellipse id="&lt;Path&gt;" class="s60" cx="388.9" cy="710.7" rx="144.6" ry="18"/>
+					<ellipse id="&lt;Path&gt;" class="s61" cx="388.9" cy="710.7" rx="142.1" ry="17.6"/>
+					<ellipse id="&lt;Path&gt;" class="s62" cx="388.9" cy="710.7" rx="139.5" ry="17.3"/>
+					<ellipse id="&lt;Path&gt;" class="s63" cx="388.9" cy="710.7" rx="137" ry="17"/>
+					<ellipse id="&lt;Path&gt;" class="s64" cx="388.9" cy="710.7" rx="134.4" ry="16.7"/>
+					<ellipse id="&lt;Path&gt;" class="s65" cx="388.9" cy="710.7" rx="131.9" ry="16.4"/>
+					<ellipse id="&lt;Path&gt;" class="s66" cx="388.9" cy="710.7" rx="129.3" ry="16"/>
+					<ellipse id="&lt;Path&gt;" class="s67" cx="388.9" cy="710.7" rx="126.7" ry="15.7"/>
+					<ellipse id="&lt;Path&gt;" class="s68" cx="388.9" cy="710.7" rx="124.2" ry="15.4"/>
+					<ellipse id="&lt;Path&gt;" class="s69" cx="388.9" cy="710.7" rx="121.6" ry="15.1"/>
+					<ellipse id="&lt;Path&gt;" class="s70" cx="388.9" cy="710.7" rx="119.1" ry="14.8"/>
+					<ellipse id="&lt;Path&gt;" class="s71" cx="388.9" cy="710.7" rx="116.5" ry="14.5"/>
+					<ellipse id="&lt;Path&gt;" class="s72" cx="388.9" cy="710.7" rx="114" ry="14.1"/>
+					<ellipse id="&lt;Path&gt;" class="s73" cx="388.9" cy="710.7" rx="111.4" ry="13.8"/>
+					<ellipse id="&lt;Path&gt;" class="s74" cx="388.9" cy="710.7" rx="108.9" ry="13.5"/>
+					<ellipse id="&lt;Path&gt;" class="s75" cx="388.9" cy="710.7" rx="106.3" ry="13.2"/>
+					<ellipse id="&lt;Path&gt;" class="s76" cx="388.9" cy="710.7" rx="103.8" ry="12.9"/>
+					<ellipse id="&lt;Path&gt;" class="s77" cx="388.9" cy="710.7" rx="101.2" ry="12.6"/>
+					<ellipse id="&lt;Path&gt;" class="s78" cx="388.9" cy="710.7" rx="98.6" ry="12.2"/>
+					<ellipse id="&lt;Path&gt;" class="s79" cx="388.9" cy="710.7" rx="96.1" ry="11.9"/>
+					<ellipse id="&lt;Path&gt;" class="s80" cx="388.9" cy="710.7" rx="93.5" ry="11.6"/>
+					<ellipse id="&lt;Path&gt;" class="s81" cx="388.9" cy="710.7" rx="91" ry="11.3"/>
+					<ellipse id="&lt;Path&gt;" class="s82" cx="388.9" cy="710.7" rx="88.4" ry="11"/>
+					<ellipse id="&lt;Path&gt;" class="s83" cx="388.9" cy="710.7" rx="85.9" ry="10.7"/>
+					<ellipse id="&lt;Path&gt;" class="s84" cx="388.9" cy="710.7" rx="83.3" ry="10.3"/>
+					<ellipse id="&lt;Path&gt;" class="s85" cx="388.9" cy="710.7" rx="80.8" ry="10"/>
+					<ellipse id="&lt;Path&gt;" class="s86" cx="388.9" cy="710.7" rx="78.2" ry="9.7"/>
+					<ellipse id="&lt;Path&gt;" class="s87" cx="388.9" cy="710.7" rx="75.7" ry="9.4"/>
+					<ellipse id="&lt;Path&gt;" class="s88" cx="388.9" cy="710.7" rx="73.1" ry="9.1"/>
+					<ellipse id="&lt;Path&gt;" class="s89" cx="388.9" cy="710.7" rx="70.6" ry="8.8"/>
+					<ellipse id="&lt;Path&gt;" class="s90" cx="388.9" cy="710.7" rx="68" ry="8.4"/>
+					<ellipse id="&lt;Path&gt;" class="s91" cx="388.9" cy="710.7" rx="65.4" ry="8.1"/>
+					<ellipse id="&lt;Path&gt;" class="s92" cx="388.9" cy="710.7" rx="62.9" ry="7.8"/>
+					<ellipse id="&lt;Path&gt;" class="s93" cx="388.9" cy="710.7" rx="60.3" ry="7.5"/>
+					<ellipse id="&lt;Path&gt;" class="s94" cx="388.9" cy="710.7" rx="57.8" ry="7.2"/>
+					<ellipse id="&lt;Path&gt;" class="s95" cx="388.9" cy="710.7" rx="55.2" ry="6.9"/>
+					<ellipse id="&lt;Path&gt;" class="s96" cx="388.9" cy="710.7" rx="52.7" ry="6.5"/>
+					<ellipse id="&lt;Path&gt;" class="s97" cx="388.9" cy="710.7" rx="50.1" ry="6.2"/>
+					<ellipse id="&lt;Path&gt;" class="s98" cx="388.9" cy="710.7" rx="47.6" ry="5.9"/>
+					<ellipse id="&lt;Path&gt;" class="s99" cx="388.9" cy="710.7" rx="45" ry="5.6"/>
+					<ellipse id="&lt;Path&gt;" class="s100" cx="388.9" cy="710.7" rx="42.5" ry="5.3"/>
+					<ellipse id="&lt;Path&gt;" class="s101" cx="388.9" cy="710.7" rx="39.9" ry="5"/>
+				</g>
+				<g id="&lt;Group&gt;">
+					<path id="&lt;Path&gt;" class="s102" d="m237.8 228.4v275c0 52.9 42.9 88.2 95.9 88.2v-189.1c0-4.3 5.3-6.5 8.3-3.4l84.9 97.5c7.8 8.9 21.6 8.9 29.4 0l84.9-97.5c3.1-3.1 8.3-0.9 8.3 3.4v183.2c-47 42.9-109.5 69.1-178.1 69.1-146 0-264.4-118.4-264.4-264.4 0-146 118.4-264.4 264.4-264.4 84 0 158.7 39.2 207.2 100.2l-129.7 135c-3.9 4.3-10.6 4.3-14.5 0l-137.5-143.1c-9.1-9.1-21.5-14.3-34.5-14.3-13.6 0-24.6 11.1-24.6 24.6z"/>
+					<rect id="&lt;Path&gt;" class="s103" x="606.2" y="454.4" width="92.3" height="92.3" rx="2.2"></rect>
+					<rect id="&lt;Path&gt;" class="s104" x="622.6" y="308.3" width="70.1" height="70.1" rx="2"></rect>
+					<rect id="&lt;Path&gt;" class="s105" x="698.5" y="386.4" width="54.5" height="54.5" rx="1.4"></rect>
+					<rect id="&lt;Path&gt;" class="s106" x="692.2" y="254.3" width="40.1" height="40.1" rx="1.1"></rect>
+				</g>
+				<g id="&lt;Group&gt;">
+					<path id="&lt;Path&gt;" class="s107" d="m465.5 504.6l71.8-82.4v158.1c-21.5 18.8-45.9 33.6-71.9 44-3.5-38.1-12.6-74.7-26.4-109.1 0.9 0.1 1.7 0.3 2.6 0.3 9.2 0 17.9-3.9 23.9-10.9z"/>
+					<path id="&lt;Path&gt;" class="s108" d="m562.2 225.6l-120.5 125.5-135.9-141.4c-11.6-11.6-27.3-18.1-43.4-18.1-20.3 0-36.8 16.5-36.8 36.9v69.5c-24.8-10.5-50.9-18.5-77.9-23.7 42-80.7 126.5-136.1 223.7-136.1 73.8 0 142.8 31.7 190.8 87.4z"/>
+					<rect id="&lt;Path&gt;" class="s109" x="614.2" y="462.4" width="76.3" height="76.3" rx="1"></rect>
+					<rect id="&lt;Path&gt;" class="s110" x="630.6" y="316.3" width="54" height="54.1" rx=".8"></rect>
+					<path id="&lt;Path&gt;" class="s111" d="m745 395.9v35.5c0 0.8-0.7 1.5-1.5 1.5h-35.5c-0.8 0-1.5-0.7-1.5-1.5v-35.5c0-0.8 0.7-1.5 1.5-1.5h35.5c0.8 0 1.5 0.7 1.5 1.5z"/>
+					<path id="&lt;Path&gt;" class="s112" d="m699.6 261.6h24.7v24.7h-24.7z"/>
+				</g>
+			</g>
+		</g>
+		<g id="&lt;Group&gt;">
+		</g>
+	</g>
+</svg>

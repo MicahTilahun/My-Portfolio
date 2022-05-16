@@ -21,7 +21,7 @@
   height: 100%;
   min-height: 100vh;
   background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-    url(../image/bg.jpg);
+    url(../image/bg.png);
   background-size: cover;
   background-position: center;
   position: relative;
@@ -127,8 +127,8 @@ span {
   margin-bottom: 30px;
 }
 .social a {
-  width: 38px;
-  height: 38px;
+  width: 40px;
+  height: 40px;
   border-radius: 50%;
   display: inline-flex;
   align-items: center;
@@ -181,6 +181,9 @@ a {
   display: flex;
   gap: 15px;
   padding: 40px;
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+    url(../image/bg.png);
+  background-size: cover;
 }
 
 .card {
@@ -229,11 +232,15 @@ a {
 }
 
 body {
-  background-color: #6a9ac4;
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+    url(../image/bg.png);
+  background-size: cover;
 }
 
 #contact {
-  background-color: #6a9ac4;
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+    url(../image/bg.png);
+  background-size: cover;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -253,19 +260,20 @@ body {
 }
 
 .contact-links {
-  background-color: #1f2e43;
+  background-color: #16293f;
+  color: #2eafff;
   background: radial-gradient(
       circle at 55% 92%,
-      #426691 0 12%,
+      #121f2e 0 12%,
       transparent 12.2%
     ),
-    radial-gradient(circle at 94% 72%, #426691 0 10%, transparent 10.2%),
+    radial-gradient(circle at 94% 72%, #111d2c 0 10%, transparent 10.2%),
     radial-gradient(
       circle at 20% max(78%, 350px),
-      #263a53 0 7%,
+      #102238 0 7%,
       transparent 7.2%
     ),
-    radial-gradient(circle at 0% 0%, #263a53 0 40%, transparent 40.2%), #1f2e43;
+    radial-gradient(circle at 0% 0%, #172536 0 40%, transparent 40.2%), #1f2e43;
   border-radius: 10px 0 0 10px;
 }
 
@@ -306,7 +314,7 @@ body {
 }
 
 .links {
-  display: flex;
+  display: flow-root;
   gap: 5px;
   flex-direction: row;
   padding-top: 10px;
