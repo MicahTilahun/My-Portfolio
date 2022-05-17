@@ -10,6 +10,10 @@
   text-decoration: none;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 .main-width {
   width: 1280px;
   max-width: 95%;
@@ -309,30 +313,13 @@ body {
 .links {
   display: flow-root;
   gap: 5px;
-  flex-direction: row;
+  flex-wrap: nowrap;
   padding-top: 10px;
 }
 
 .contact .link {
   margin: 10px;
   cursor: pointer;
-}
-
-.contact img {
-  width: 45px;
-  height: 45px;
-  filter: hue-rotate(220deg) drop-shadow(2px 4px 4px #0006);
-  transition: 0.2s;
-  user-select: none;
-}
-
-.contact img:hover {
-  transform: scale(1.1, 1.1);
-}
-
-.contact img:active {
-  transform: scale(1.1, 1.1);
-  filter: hue-rotate(220deg) drop-shadow(2px 4px 4px #222) sepia(0.3);
 }
 
 .form-item {
