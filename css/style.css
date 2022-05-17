@@ -181,9 +181,6 @@ a {
   display: flex;
   gap: 15px;
   padding: 40px;
-  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-    url(../image/bg.png);
-  background-size: cover;
 }
 
 .card {
@@ -232,15 +229,11 @@ a {
 }
 
 body {
-  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-    url(../image/bg.png);
-  background-size: cover;
+  background-color: #328fa5;
 }
 
 #contact {
-  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-    url(../image/bg.png);
-  background-size: cover;
+  background-color: #328fa5;
   display: flex;
   justify-content: center;
   align-items: center;
